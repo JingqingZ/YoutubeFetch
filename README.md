@@ -15,5 +15,5 @@ YoutubeAppConsole.exe Imperial
 2. This is the prototype of Youtube App. For further improvement, I need to integrate it with GDO. <br/>
 
 # Problems
-1.There is a limitation of number of videos that can be fetched every request (<=50), and I still haven't found an API that support fetching videos starting from a specific videoId. Thus, I cannot get more than 50 different videos currently. <br/>
+1.There is a limitation of number of videos that can be fetched every request (<=50), and I still haven't found an API that supports fetching videos starting from a specific videoId. Thus, I cannot get more than 50 different videos currently. <br/>
 2. Integration with GDO after the SDK is ready. <br/>
