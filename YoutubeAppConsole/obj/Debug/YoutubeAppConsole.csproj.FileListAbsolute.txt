@@ -1,0 +1,11 @@
+C:\Users\zhang_000\Documents\ICL\YoutubeAppConsole\YoutubeAppConsole\bin\Debug\YoutubeAppConsole.exe.config
+C:\Users\zhang_000\Documents\ICL\YoutubeAppConsole\YoutubeAppConsole\bin\Debug\YoutubeAppConsole.exe
+C:\Users\zhang_000\Documents\ICL\YoutubeAppConsole\YoutubeAppConsole\bin\Debug\YoutubeAppConsole.pdb
+C:\Users\zhang_000\Documents\ICL\YoutubeAppConsole\YoutubeAppConsole\obj\Debug\YoutubeAppConsole.csprojResolveAssemblyReference.cache
+C:\Users\zhang_000\Documents\ICL\YoutubeAppConsole\YoutubeAppConsole\obj\Debug\YoutubeAppConsole.exe
+C:\Users\zhang_000\Documents\ICL\YoutubeAppConsole\YoutubeAppConsole\obj\Debug\YoutubeAppConsole.pdb
+C:\Users\zhang_000\Documents\ICL\YoutubeAppConsole\YoutubeAppConsole\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zhang_000\Documents\ICL\YoutubeAppConsole\YoutubeAppConsole\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zhang_000\Documents\ICL\YoutubeFetch\YoutubeAppConsole\bin\Debug\YoutubeAppConsole.exe.config
+C:\Users\zhang_000\Documents\ICL\YoutubeFetch\YoutubeAppConsole\obj\Debug\YoutubeAppConsole.exe
+C:\Users\zhang_000\Documents\ICL\YoutubeFetch\YoutubeAppConsole\obj\Debug\YoutubeAppConsole.pdb
